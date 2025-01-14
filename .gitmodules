@@ -1,0 +1,3 @@
+[submodule "week_7_deep_learning/clothing-dataset-small"]
+	path = week_7_deep_learning/clothing-dataset-small
+	url = https://github.com/alexeygrigorev/clothing-dataset-small.git
